@@ -85,7 +85,6 @@ After installation, update the path in `app.py` if needed.
 Example:
 
 ```
-<img width="1725" height="864" alt="Screenshot 2026-03-26 112446" src="https://github.com/user-attachments/assets/d65c60f5-43b4-412a-ad1f-f179a765ca9c" />
 
 ```
 <img width="931" height="702" alt="Screenshot 2026-03-26 113000" src="https://github.com/user-attachments/assets/23182694-11d4-4272-8d45-6acd8f972e6b" />
