@@ -84,12 +84,11 @@ After installation, update the path in `app.py` if needed.
 
 Example:
 
-```
+<img width="1725" height="864" alt="Screenshot 2026-03-26 112446" src="https://github.com/user-attachments/assets/6d1898bb-e9df-46b0-aee0-407d5de97988" />
 
-```
-<img width="931" height="702" alt="Screenshot 2026-03-26 113000" src="https://github.com/user-attachments/assets/23182694-11d4-4272-8d45-6acd8f972e6b" />
 
----
+<img width="999" height="850" alt="Screenshot 2026-03-26 113449" src="https://github.com/user-attachments/assets/93ed5ce9-317a-48cf-9550-74e70c01e9a8" />
+
 
 ## 👩‍💻 Author
 
